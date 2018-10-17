@@ -5,6 +5,9 @@
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as 'website.etc' or 'mywebsite.etc' into addresses understandable by decentralized network machines.
 
+## 💡 What is ECNS?
+ECNS stand for Ethereum Classic Name Service with secure, decentralized and scalable name service on Ethereum Classic blockchain.
+
 ## 💻 Try out ECNS
 
 Portal Network provide a browser extension allow every one can easily browse the decentralized website host on IPFS and using `.etc` with it domain name.
